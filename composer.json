@@ -1,0 +1,16 @@
+{
+    "name": "Danilo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo",
+            "email": "danilo.rodrigues24@fatec.sp.gov.br"
+        }
+    ],
+    "require": {
+    }
+}
